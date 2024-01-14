@@ -1,0 +1,23 @@
+
+
+aws_region = "us-east-1"
+aws_access_key = "AKIA4DM5PBIGF7NJLEPK"
+aws_secret_key = "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"
+
+
+##################################################
+vpc_name = "ansible-vpc"
+sg-name = "ansible-sg"
+
+
+
+# Instance
+instance_type = "t2.medium"
+
+
+#
+node-1 = "ansible-node-1"
+node-2 = "ansible-node-2"
+node-3 = "ansible-node-3"
+
+
